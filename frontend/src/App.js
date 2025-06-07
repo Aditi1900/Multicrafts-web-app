@@ -9,6 +9,7 @@ import About from "./Components/About";
 import Workshops from "./Components/Workshops";
 import Contact from "./Components/Contact";
 import Footer from './Shared/Footer';
+//this is just to check if this is connected to Github
 
 function App() {
   return (
